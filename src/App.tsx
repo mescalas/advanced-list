@@ -10,7 +10,6 @@ import { useEffect, useRef, useState } from "react";
 import { Card, CardContent } from "./components/ui/card";
 import { Repeat, XIcon } from "lucide-react";
 import { Checkbox } from "./components/ui/checkbox";
-import clsx from "clsx";
 
 const ITEMS = [
   {
